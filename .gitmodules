@@ -1,4 +1,4 @@
 [submodule "Editor"]
 path = Editor
-url = ssh://git@github.com/CodeEditorLand/Editor.git
+url = ssh://git@github.com/DependencyCodeEditorLand/Editor.git
 ignore = all
